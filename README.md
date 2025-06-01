@@ -1,6 +1,6 @@
-# 🤖 Robotics Summer Bootcamp @ IIT Jodhpur
+# 🤖 Robotics Summer Bootcamp
 
-Welcome to the official repository for the **Robotics Summer Bootcamp** organized by the Robotics Club, IIT Jodhpur! 🎉  
+Welcome to the official repository for the **Robotics Summer Bootcamp** organized by the Robotics Club! 🎉  
 This bootcamp is designed to introduce you to the foundational concepts and exciting applications in robotics — ranging from basic Python skills to full 3D quadcopter simulations and control systems.
 
 This repo will contain:
